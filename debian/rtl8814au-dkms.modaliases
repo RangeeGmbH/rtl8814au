@@ -1,0 +1,11 @@
+alias usb:v20F4p809Bd*dc*dsc*dp*ic*isc*ip*in* rtl8814au
+alias usb:v0846p9054d*dc*dsc*dp*ic*isc*ip*in* rtl8814au
+alias usb:v2357p0106d*dc*dsc*dp*ic*isc*ip*in* rtl8814au
+alias usb:v20F4p809Ad*dc*dsc*dp*ic*isc*ip*in* rtl8814au
+alias usb:v7392pA834d*dc*dsc*dp*ic*isc*ip*in* rtl8814au
+alias usb:v7392pA833d*dc*dsc*dp*ic*isc*ip*in* rtl8814au
+alias usb:v056Ep400Dd*dc*dsc*dp*ic*isc*ip*in* rtl8814au
+alias usb:v056Ep400Bd*dc*dsc*dp*ic*isc*ip*in* rtl8814au
+alias usb:v0B05p1817d*dc*dsc*dp*ic*isc*ip*in* rtl8814au
+alias usb:v2001p331Ad*dc*dsc*dp*ic*isc*ip*in* rtl8814au
+alias usb:v0BDAp8813d*dc*dsc*dp*ic*isc*ip*in* rtl8814au
