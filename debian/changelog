@@ -1,3 +1,9 @@
+rtl8814au (4.3.21-0rangeeos2) rangeeos; urgency=medium
+
+  * Support for Kernel 4.15
+
+ -- René Vögeli <rvoegeli@rangee.com>  Mon, 28 May 2018 16:54:39 +0200
+
 rtl8814au (4.3.21-0rangeeos1) rangeeos; urgency=medium
 
   * 4.3.21
